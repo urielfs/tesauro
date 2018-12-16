@@ -1,0 +1,2078 @@
+[21-Jun-2018 03:13:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Jun-2018 03:13:54 UTC] PHP Stack trace:
+[21-Jun-2018 03:13:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Jun-2018 03:13:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Jun-2018 03:13:54 UTC] PHP Stack trace:
+[21-Jun-2018 03:13:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Jun-2018 03:14:42 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Jun-2018 03:14:42 UTC] PHP Stack trace:
+[21-Jun-2018 03:14:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Jun-2018 03:14:42 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Jun-2018 03:14:42 UTC] PHP Stack trace:
+[21-Jun-2018 03:14:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 02:58:53 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Jul-2018 02:58:53 UTC] PHP Stack trace:
+[05-Jul-2018 02:58:53 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 02:58:53 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Jul-2018 02:58:53 UTC] PHP Stack trace:
+[05-Jul-2018 02:58:53 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 02:58:58 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[05-Jul-2018 02:58:58 UTC] PHP Stack trace:
+[05-Jul-2018 02:58:58 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[05-Jul-2018 02:59:16 UTC] PHP Notice:  Undefined variable: b in /home/redrausc/public_html/sicpmt/registro.php on line 11
+[05-Jul-2018 02:59:16 UTC] PHP Stack trace:
+[05-Jul-2018 02:59:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[05-Jul-2018 02:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function registroUser() on null in /home/redrausc/public_html/sicpmt/registro.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/redrausc/public_html/sicpmt/registro.php on line 11
+[05-Jul-2018 03:05:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Jul-2018 03:05:54 UTC] PHP Stack trace:
+[05-Jul-2018 03:05:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 03:05:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Jul-2018 03:05:54 UTC] PHP Stack trace:
+[05-Jul-2018 03:05:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 13:56:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Jul-2018 13:56:43 UTC] PHP Stack trace:
+[05-Jul-2018 13:56:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 13:56:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Jul-2018 13:56:43 UTC] PHP Stack trace:
+[05-Jul-2018 13:56:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 13:59:42 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[05-Jul-2018 13:59:42 UTC] PHP Stack trace:
+[05-Jul-2018 13:59:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[05-Jul-2018 13:59:46 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[05-Jul-2018 13:59:46 UTC] PHP Stack trace:
+[05-Jul-2018 13:59:46 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[05-Jul-2018 15:00:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Jul-2018 15:00:23 UTC] PHP Stack trace:
+[05-Jul-2018 15:00:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 15:00:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Jul-2018 15:00:23 UTC] PHP Stack trace:
+[05-Jul-2018 15:00:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 18:01:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Jul-2018 18:01:25 UTC] PHP Stack trace:
+[05-Jul-2018 18:01:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Jul-2018 18:01:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Jul-2018 18:01:25 UTC] PHP Stack trace:
+[05-Jul-2018 18:01:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:17:04 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:17:04 UTC] PHP Stack trace:
+[06-Jul-2018 12:17:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:17:04 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:17:04 UTC] PHP Stack trace:
+[06-Jul-2018 12:17:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:17:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[06-Jul-2018 12:17:08 UTC] PHP Stack trace:
+[06-Jul-2018 12:17:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Jul-2018 12:17:37 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[06-Jul-2018 12:17:37 UTC] PHP Stack trace:
+[06-Jul-2018 12:17:37 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Jul-2018 12:18:30 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:18:30 UTC] PHP Stack trace:
+[06-Jul-2018 12:18:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:18:30 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:18:30 UTC] PHP Stack trace:
+[06-Jul-2018 12:18:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:18:33 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[06-Jul-2018 12:18:33 UTC] PHP Stack trace:
+[06-Jul-2018 12:18:33 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Jul-2018 12:19:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:19:31 UTC] PHP Stack trace:
+[06-Jul-2018 12:19:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:19:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:19:31 UTC] PHP Stack trace:
+[06-Jul-2018 12:19:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:20:22 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:20:22 UTC] PHP Stack trace:
+[06-Jul-2018 12:20:22 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:20:22 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:20:22 UTC] PHP Stack trace:
+[06-Jul-2018 12:20:22 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:20:32 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[06-Jul-2018 12:20:32 UTC] PHP Stack trace:
+[06-Jul-2018 12:20:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[06-Jul-2018 12:20:38 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[06-Jul-2018 12:20:38 UTC] PHP Stack trace:
+[06-Jul-2018 12:20:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[06-Jul-2018 12:20:46 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[06-Jul-2018 12:20:46 UTC] PHP Stack trace:
+[06-Jul-2018 12:20:46 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[06-Jul-2018 12:21:55 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:21:55 UTC] PHP Stack trace:
+[06-Jul-2018 12:21:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:21:55 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:21:55 UTC] PHP Stack trace:
+[06-Jul-2018 12:21:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:27:27 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:27:27 UTC] PHP Stack trace:
+[06-Jul-2018 12:27:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:27:27 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:27:27 UTC] PHP Stack trace:
+[06-Jul-2018 12:27:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:35:00 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:35:00 UTC] PHP Stack trace:
+[06-Jul-2018 12:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:35:00 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:35:00 UTC] PHP Stack trace:
+[06-Jul-2018 12:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:36:09 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Jul-2018 12:36:09 UTC] PHP Stack trace:
+[06-Jul-2018 12:36:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Jul-2018 12:36:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Jul-2018 12:36:09 UTC] PHP Stack trace:
+[06-Jul-2018 12:36:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 16:04:19 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Jul-2018 16:04:19 UTC] PHP Stack trace:
+[09-Jul-2018 16:04:19 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 16:04:19 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Jul-2018 16:04:19 UTC] PHP Stack trace:
+[09-Jul-2018 16:04:19 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 16:18:13 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Jul-2018 16:18:13 UTC] PHP Stack trace:
+[09-Jul-2018 16:18:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 16:18:13 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Jul-2018 16:18:13 UTC] PHP Stack trace:
+[09-Jul-2018 16:18:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 17:14:55 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Jul-2018 17:14:55 UTC] PHP Stack trace:
+[09-Jul-2018 17:14:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Jul-2018 17:14:55 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Jul-2018 17:14:55 UTC] PHP Stack trace:
+[09-Jul-2018 17:14:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 01:39:02 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 01:39:02 UTC] PHP Stack trace:
+[10-Jul-2018 01:39:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 01:39:02 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 01:39:02 UTC] PHP Stack trace:
+[10-Jul-2018 01:39:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 03:19:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 03:19:52 UTC] PHP Stack trace:
+[10-Jul-2018 03:19:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 03:19:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 03:19:52 UTC] PHP Stack trace:
+[10-Jul-2018 03:19:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 13:40:12 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 13:40:12 UTC] PHP Stack trace:
+[10-Jul-2018 13:40:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 13:40:12 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 13:40:12 UTC] PHP Stack trace:
+[10-Jul-2018 13:40:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 16:25:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 16:25:15 UTC] PHP Stack trace:
+[10-Jul-2018 16:25:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 16:25:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 16:25:15 UTC] PHP Stack trace:
+[10-Jul-2018 16:25:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 16:26:27 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 16:26:27 UTC] PHP Stack trace:
+[10-Jul-2018 16:26:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 16:26:27 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 16:26:27 UTC] PHP Stack trace:
+[10-Jul-2018 16:26:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:08:33 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:08:33 UTC] PHP Stack trace:
+[10-Jul-2018 19:08:33 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:08:33 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:08:33 UTC] PHP Stack trace:
+[10-Jul-2018 19:08:33 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:09:16 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:09:16 UTC] PHP Stack trace:
+[10-Jul-2018 19:09:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:09:16 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:09:16 UTC] PHP Stack trace:
+[10-Jul-2018 19:09:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:15:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:15:25 UTC] PHP Stack trace:
+[10-Jul-2018 19:15:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:15:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:15:25 UTC] PHP Stack trace:
+[10-Jul-2018 19:15:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:16:21 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:16:21 UTC] PHP Stack trace:
+[10-Jul-2018 19:16:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:16:21 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:16:21 UTC] PHP Stack trace:
+[10-Jul-2018 19:16:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:18:13 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:18:13 UTC] PHP Stack trace:
+[10-Jul-2018 19:18:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:18:32 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:18:32 UTC] PHP Stack trace:
+[10-Jul-2018 19:18:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:19:31 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:19:31 UTC] PHP Stack trace:
+[10-Jul-2018 19:19:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:20:38 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:20:38 UTC] PHP Stack trace:
+[10-Jul-2018 19:20:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:20:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[10-Jul-2018 19:20:44 UTC] PHP Stack trace:
+[10-Jul-2018 19:20:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[10-Jul-2018 19:21:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:21:15 UTC] PHP Stack trace:
+[10-Jul-2018 19:21:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:21:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:21:15 UTC] PHP Stack trace:
+[10-Jul-2018 19:21:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:22:16 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:22:16 UTC] PHP Stack trace:
+[10-Jul-2018 19:22:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:22:16 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:22:16 UTC] PHP Stack trace:
+[10-Jul-2018 19:22:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:22:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[10-Jul-2018 19:22:20 UTC] PHP Stack trace:
+[10-Jul-2018 19:22:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[10-Jul-2018 19:22:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:22:54 UTC] PHP Stack trace:
+[10-Jul-2018 19:22:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:22:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:22:54 UTC] PHP Stack trace:
+[10-Jul-2018 19:22:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:23:10 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[10-Jul-2018 19:23:10 UTC] PHP Stack trace:
+[10-Jul-2018 19:23:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[10-Jul-2018 19:28:47 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[10-Jul-2018 19:28:47 UTC] PHP Stack trace:
+[10-Jul-2018 19:28:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[10-Jul-2018 19:30:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:30:31 UTC] PHP Stack trace:
+[10-Jul-2018 19:30:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:30:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:30:31 UTC] PHP Stack trace:
+[10-Jul-2018 19:30:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:34:34 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Jul-2018 19:34:34 UTC] PHP Stack trace:
+[10-Jul-2018 19:34:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:34:34 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Jul-2018 19:34:34 UTC] PHP Stack trace:
+[10-Jul-2018 19:34:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Jul-2018 19:37:02 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:37:02 UTC] PHP Stack trace:
+[10-Jul-2018 19:37:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:37:12 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:37:12 UTC] PHP Stack trace:
+[10-Jul-2018 19:37:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:40:09 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:40:09 UTC] PHP Stack trace:
+[10-Jul-2018 19:40:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[10-Jul-2018 19:40:11 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[10-Jul-2018 19:40:11 UTC] PHP Stack trace:
+[10-Jul-2018 19:40:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[11-Jul-2018 01:50:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Jul-2018 01:50:08 UTC] PHP Stack trace:
+[11-Jul-2018 01:50:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 01:50:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Jul-2018 01:50:08 UTC] PHP Stack trace:
+[11-Jul-2018 01:50:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 03:52:39 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Jul-2018 03:52:39 UTC] PHP Stack trace:
+[11-Jul-2018 03:52:39 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 03:52:39 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Jul-2018 03:52:39 UTC] PHP Stack trace:
+[11-Jul-2018 03:52:39 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 03:54:35 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[11-Jul-2018 03:54:35 UTC] PHP Stack trace:
+[11-Jul-2018 03:54:35 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[11-Jul-2018 03:54:43 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[11-Jul-2018 03:54:43 UTC] PHP Stack trace:
+[11-Jul-2018 03:54:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[11-Jul-2018 14:27:18 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Jul-2018 14:27:18 UTC] PHP Stack trace:
+[11-Jul-2018 14:27:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 14:27:18 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Jul-2018 14:27:18 UTC] PHP Stack trace:
+[11-Jul-2018 14:27:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 14:46:05 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Jul-2018 14:46:05 UTC] PHP Stack trace:
+[11-Jul-2018 14:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 14:46:05 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Jul-2018 14:46:05 UTC] PHP Stack trace:
+[11-Jul-2018 14:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 20:42:42 UTC] PHP Notice:  Undefined index: usuario in /home/redrausc/public_html/sicpmt/logout.php on line 4
+[11-Jul-2018 20:42:42 UTC] PHP Stack trace:
+[11-Jul-2018 20:42:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/logout.php:0
+[11-Jul-2018 20:42:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Jul-2018 20:42:52 UTC] PHP Stack trace:
+[11-Jul-2018 20:42:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Jul-2018 20:42:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Jul-2018 20:42:52 UTC] PHP Stack trace:
+[11-Jul-2018 20:42:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Jul-2018 13:50:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[12-Jul-2018 13:50:23 UTC] PHP Stack trace:
+[12-Jul-2018 13:50:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Jul-2018 13:50:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[12-Jul-2018 13:50:23 UTC] PHP Stack trace:
+[12-Jul-2018 13:50:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Jul-2018 18:23:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[12-Jul-2018 18:23:31 UTC] PHP Stack trace:
+[12-Jul-2018 18:23:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Jul-2018 18:23:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[12-Jul-2018 18:23:31 UTC] PHP Stack trace:
+[12-Jul-2018 18:23:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Jul-2018 21:48:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Jul-2018 21:48:31 UTC] PHP Stack trace:
+[13-Jul-2018 21:48:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Jul-2018 21:48:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Jul-2018 21:48:31 UTC] PHP Stack trace:
+[13-Jul-2018 21:48:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Jul-2018 23:02:59 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[14-Jul-2018 23:02:59 UTC] PHP Stack trace:
+[14-Jul-2018 23:02:59 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Jul-2018 23:02:59 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[14-Jul-2018 23:02:59 UTC] PHP Stack trace:
+[14-Jul-2018 23:02:59 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Jul-2018 15:57:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[16-Jul-2018 15:57:20 UTC] PHP Stack trace:
+[16-Jul-2018 15:57:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Jul-2018 15:57:20 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[16-Jul-2018 15:57:20 UTC] PHP Stack trace:
+[16-Jul-2018 15:57:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Jul-2018 23:48:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Jul-2018 23:48:20 UTC] PHP Stack trace:
+[17-Jul-2018 23:48:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Jul-2018 23:48:20 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Jul-2018 23:48:20 UTC] PHP Stack trace:
+[17-Jul-2018 23:48:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 01:59:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Jul-2018 01:59:07 UTC] PHP Stack trace:
+[18-Jul-2018 01:59:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 01:59:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Jul-2018 01:59:07 UTC] PHP Stack trace:
+[18-Jul-2018 01:59:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 15:06:24 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Jul-2018 15:06:24 UTC] PHP Stack trace:
+[18-Jul-2018 15:06:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 15:06:24 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Jul-2018 15:06:24 UTC] PHP Stack trace:
+[18-Jul-2018 15:06:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 19:39:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Jul-2018 19:39:23 UTC] PHP Stack trace:
+[18-Jul-2018 19:39:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Jul-2018 19:39:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Jul-2018 19:39:23 UTC] PHP Stack trace:
+[18-Jul-2018 19:39:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Jul-2018 13:01:27 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[19-Jul-2018 13:01:27 UTC] PHP Stack trace:
+[19-Jul-2018 13:01:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Jul-2018 13:01:27 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[19-Jul-2018 13:01:27 UTC] PHP Stack trace:
+[19-Jul-2018 13:01:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Jul-2018 13:18:37 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[23-Jul-2018 13:18:37 UTC] PHP Stack trace:
+[23-Jul-2018 13:18:37 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Jul-2018 13:18:37 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[23-Jul-2018 13:18:37 UTC] PHP Stack trace:
+[23-Jul-2018 13:18:37 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Jul-2018 12:40:56 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Jul-2018 12:40:56 UTC] PHP Stack trace:
+[24-Jul-2018 12:40:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Jul-2018 12:40:56 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Jul-2018 12:40:56 UTC] PHP Stack trace:
+[24-Jul-2018 12:40:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Jul-2018 00:22:12 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[25-Jul-2018 00:22:12 UTC] PHP Stack trace:
+[25-Jul-2018 00:22:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Jul-2018 00:22:12 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[25-Jul-2018 00:22:12 UTC] PHP Stack trace:
+[25-Jul-2018 00:22:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Jul-2018 11:20:11 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[25-Jul-2018 11:20:11 UTC] PHP Stack trace:
+[25-Jul-2018 11:20:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Jul-2018 11:20:11 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[25-Jul-2018 11:20:11 UTC] PHP Stack trace:
+[25-Jul-2018 11:20:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Jul-2018 22:33:06 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[26-Jul-2018 22:33:06 UTC] PHP Stack trace:
+[26-Jul-2018 22:33:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Jul-2018 22:33:06 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[26-Jul-2018 22:33:06 UTC] PHP Stack trace:
+[26-Jul-2018 22:33:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 13:24:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 13:24:25 UTC] PHP Stack trace:
+[27-Jul-2018 13:24:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 13:24:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 13:24:25 UTC] PHP Stack trace:
+[27-Jul-2018 13:24:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 14:11:17 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 14:11:17 UTC] PHP Stack trace:
+[27-Jul-2018 14:11:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 14:11:17 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 14:11:17 UTC] PHP Stack trace:
+[27-Jul-2018 14:11:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 16:00:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 16:00:44 UTC] PHP Stack trace:
+[27-Jul-2018 16:00:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 16:00:44 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 16:00:44 UTC] PHP Stack trace:
+[27-Jul-2018 16:00:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 18:29:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 18:29:54 UTC] PHP Stack trace:
+[27-Jul-2018 18:29:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 18:29:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 18:29:54 UTC] PHP Stack trace:
+[27-Jul-2018 18:29:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 19:31:02 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 19:31:02 UTC] PHP Stack trace:
+[27-Jul-2018 19:31:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 19:31:02 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 19:31:02 UTC] PHP Stack trace:
+[27-Jul-2018 19:31:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 19:37:56 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Jul-2018 19:37:56 UTC] PHP Stack trace:
+[27-Jul-2018 19:37:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Jul-2018 19:37:56 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Jul-2018 19:37:56 UTC] PHP Stack trace:
+[27-Jul-2018 19:37:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Jul-2018 13:56:42 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Jul-2018 13:56:42 UTC] PHP Stack trace:
+[28-Jul-2018 13:56:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Jul-2018 13:56:42 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Jul-2018 13:56:42 UTC] PHP Stack trace:
+[28-Jul-2018 13:56:42 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Jul-2018 14:47:05 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Jul-2018 14:47:05 UTC] PHP Stack trace:
+[29-Jul-2018 14:47:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Jul-2018 14:47:05 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Jul-2018 14:47:05 UTC] PHP Stack trace:
+[29-Jul-2018 14:47:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Jul-2018 17:05:40 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[30-Jul-2018 17:05:40 UTC] PHP Stack trace:
+[30-Jul-2018 17:05:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Jul-2018 17:05:40 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[30-Jul-2018 17:05:40 UTC] PHP Stack trace:
+[30-Jul-2018 17:05:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Jul-2018 19:34:36 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[30-Jul-2018 19:34:36 UTC] PHP Stack trace:
+[30-Jul-2018 19:34:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Jul-2018 19:34:36 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[30-Jul-2018 19:34:36 UTC] PHP Stack trace:
+[30-Jul-2018 19:34:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[31-Jul-2018 13:53:47 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[31-Jul-2018 13:53:47 UTC] PHP Stack trace:
+[31-Jul-2018 13:53:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[31-Jul-2018 13:53:47 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[31-Jul-2018 13:53:47 UTC] PHP Stack trace:
+[31-Jul-2018 13:53:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[31-Jul-2018 22:04:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[31-Jul-2018 22:04:07 UTC] PHP Stack trace:
+[31-Jul-2018 22:04:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[31-Jul-2018 22:04:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[31-Jul-2018 22:04:07 UTC] PHP Stack trace:
+[31-Jul-2018 22:04:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 13:42:30 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 13:42:30 UTC] PHP Stack trace:
+[01-Aug-2018 13:42:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 13:42:30 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 13:42:30 UTC] PHP Stack trace:
+[01-Aug-2018 13:42:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 15:36:36 UTC] PHP Notice:  Undefined index: usuario in /home/redrausc/public_html/sicpmt/logout.php on line 4
+[01-Aug-2018 15:36:36 UTC] PHP Stack trace:
+[01-Aug-2018 15:36:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/logout.php:0
+[01-Aug-2018 15:36:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 15:36:43 UTC] PHP Stack trace:
+[01-Aug-2018 15:36:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 15:36:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 15:36:43 UTC] PHP Stack trace:
+[01-Aug-2018 15:36:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 16:54:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 16:54:15 UTC] PHP Stack trace:
+[01-Aug-2018 16:54:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 16:54:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 16:54:15 UTC] PHP Stack trace:
+[01-Aug-2018 16:54:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:09:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 17:09:43 UTC] PHP Stack trace:
+[01-Aug-2018 17:09:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:09:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 17:09:43 UTC] PHP Stack trace:
+[01-Aug-2018 17:09:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:10:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 17:10:43 UTC] PHP Stack trace:
+[01-Aug-2018 17:10:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:10:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 17:10:43 UTC] PHP Stack trace:
+[01-Aug-2018 17:10:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:13:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 17:13:32 UTC] PHP Stack trace:
+[01-Aug-2018 17:13:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:13:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 17:13:32 UTC] PHP Stack trace:
+[01-Aug-2018 17:13:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:14:09 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Aug-2018 17:14:09 UTC] PHP Stack trace:
+[01-Aug-2018 17:14:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Aug-2018 17:14:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Aug-2018 17:14:09 UTC] PHP Stack trace:
+[01-Aug-2018 17:14:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Aug-2018 03:26:57 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Aug-2018 03:26:57 UTC] PHP Stack trace:
+[02-Aug-2018 03:26:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Aug-2018 03:26:57 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Aug-2018 03:26:57 UTC] PHP Stack trace:
+[02-Aug-2018 03:26:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Aug-2018 04:01:17 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Aug-2018 04:01:17 UTC] PHP Stack trace:
+[02-Aug-2018 04:01:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Aug-2018 04:01:17 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Aug-2018 04:01:17 UTC] PHP Stack trace:
+[02-Aug-2018 04:01:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 14:47:13 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Aug-2018 14:47:13 UTC] PHP Stack trace:
+[03-Aug-2018 14:47:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 14:47:13 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Aug-2018 14:47:13 UTC] PHP Stack trace:
+[03-Aug-2018 14:47:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 20:35:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Aug-2018 20:35:07 UTC] PHP Stack trace:
+[03-Aug-2018 20:35:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 20:35:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Aug-2018 20:35:07 UTC] PHP Stack trace:
+[03-Aug-2018 20:35:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 20:36:10 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Aug-2018 20:36:10 UTC] PHP Stack trace:
+[03-Aug-2018 20:36:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Aug-2018 20:36:10 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Aug-2018 20:36:10 UTC] PHP Stack trace:
+[03-Aug-2018 20:36:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 11:35:30 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 11:35:30 UTC] PHP Stack trace:
+[06-Aug-2018 11:35:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 11:35:30 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 11:35:30 UTC] PHP Stack trace:
+[06-Aug-2018 11:35:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:23:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 13:23:52 UTC] PHP Stack trace:
+[06-Aug-2018 13:23:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:23:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 13:23:52 UTC] PHP Stack trace:
+[06-Aug-2018 13:23:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:24:06 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 13:24:06 UTC] PHP Stack trace:
+[06-Aug-2018 13:24:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:24:06 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 13:24:06 UTC] PHP Stack trace:
+[06-Aug-2018 13:24:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:35:58 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 13:35:58 UTC] PHP Stack trace:
+[06-Aug-2018 13:35:58 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:35:58 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 13:35:58 UTC] PHP Stack trace:
+[06-Aug-2018 13:35:58 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:36:13 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 13:36:13 UTC] PHP Stack trace:
+[06-Aug-2018 13:36:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:36:13 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 13:36:13 UTC] PHP Stack trace:
+[06-Aug-2018 13:36:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:36:24 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 13:36:24 UTC] PHP Stack trace:
+[06-Aug-2018 13:36:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 13:36:24 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 13:36:24 UTC] PHP Stack trace:
+[06-Aug-2018 13:36:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 22:14:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Aug-2018 22:14:52 UTC] PHP Stack trace:
+[06-Aug-2018 22:14:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Aug-2018 22:14:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Aug-2018 22:14:52 UTC] PHP Stack trace:
+[06-Aug-2018 22:14:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Aug-2018 15:03:48 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[08-Aug-2018 15:03:48 UTC] PHP Stack trace:
+[08-Aug-2018 15:03:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Aug-2018 15:03:48 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[08-Aug-2018 15:03:48 UTC] PHP Stack trace:
+[08-Aug-2018 15:03:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Aug-2018 13:26:46 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Aug-2018 13:26:46 UTC] PHP Stack trace:
+[09-Aug-2018 13:26:46 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Aug-2018 13:26:46 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Aug-2018 13:26:46 UTC] PHP Stack trace:
+[09-Aug-2018 13:26:46 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Aug-2018 16:25:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Aug-2018 16:25:07 UTC] PHP Stack trace:
+[10-Aug-2018 16:25:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Aug-2018 16:25:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Aug-2018 16:25:07 UTC] PHP Stack trace:
+[10-Aug-2018 16:25:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Aug-2018 13:27:57 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Aug-2018 13:27:57 UTC] PHP Stack trace:
+[11-Aug-2018 13:27:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Aug-2018 13:27:57 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Aug-2018 13:27:57 UTC] PHP Stack trace:
+[11-Aug-2018 13:27:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Aug-2018 13:05:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Aug-2018 13:05:25 UTC] PHP Stack trace:
+[13-Aug-2018 13:05:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Aug-2018 13:05:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Aug-2018 13:05:25 UTC] PHP Stack trace:
+[13-Aug-2018 13:05:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Aug-2018 22:51:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Aug-2018 22:51:23 UTC] PHP Stack trace:
+[13-Aug-2018 22:51:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Aug-2018 22:51:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Aug-2018 22:51:23 UTC] PHP Stack trace:
+[13-Aug-2018 22:51:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Aug-2018 13:07:02 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[14-Aug-2018 13:07:02 UTC] PHP Stack trace:
+[14-Aug-2018 13:07:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Aug-2018 13:07:02 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[14-Aug-2018 13:07:02 UTC] PHP Stack trace:
+[14-Aug-2018 13:07:02 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[15-Aug-2018 12:24:49 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[15-Aug-2018 12:24:49 UTC] PHP Stack trace:
+[15-Aug-2018 12:24:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[15-Aug-2018 12:24:49 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[15-Aug-2018 12:24:49 UTC] PHP Stack trace:
+[15-Aug-2018 12:24:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Aug-2018 18:26:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[16-Aug-2018 18:26:44 UTC] PHP Stack trace:
+[16-Aug-2018 18:26:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Aug-2018 18:26:44 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[16-Aug-2018 18:26:44 UTC] PHP Stack trace:
+[16-Aug-2018 18:26:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:24:21 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 13:24:21 UTC] PHP Stack trace:
+[17-Aug-2018 13:24:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:24:21 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 13:24:21 UTC] PHP Stack trace:
+[17-Aug-2018 13:24:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:37:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 13:37:08 UTC] PHP Stack trace:
+[17-Aug-2018 13:37:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:37:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 13:37:08 UTC] PHP Stack trace:
+[17-Aug-2018 13:37:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:55:57 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[17-Aug-2018 13:55:57 UTC] PHP Stack trace:
+[17-Aug-2018 13:55:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[17-Aug-2018 13:58:16 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 13:58:16 UTC] PHP Stack trace:
+[17-Aug-2018 13:58:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:58:16 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 13:58:16 UTC] PHP Stack trace:
+[17-Aug-2018 13:58:16 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:58:47 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 13:58:47 UTC] PHP Stack trace:
+[17-Aug-2018 13:58:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:58:47 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 13:58:47 UTC] PHP Stack trace:
+[17-Aug-2018 13:58:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:58:56 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[17-Aug-2018 13:58:56 UTC] PHP Stack trace:
+[17-Aug-2018 13:58:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[17-Aug-2018 13:59:03 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[17-Aug-2018 13:59:03 UTC] PHP Stack trace:
+[17-Aug-2018 13:59:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[17-Aug-2018 13:59:21 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[17-Aug-2018 13:59:21 UTC] PHP Stack trace:
+[17-Aug-2018 13:59:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[17-Aug-2018 13:59:28 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[17-Aug-2018 13:59:28 UTC] PHP Stack trace:
+[17-Aug-2018 13:59:28 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[17-Aug-2018 13:59:45 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 13:59:45 UTC] PHP Stack trace:
+[17-Aug-2018 13:59:45 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 13:59:45 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 13:59:45 UTC] PHP Stack trace:
+[17-Aug-2018 13:59:45 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 14:00:26 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 14:00:26 UTC] PHP Stack trace:
+[17-Aug-2018 14:00:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 14:00:26 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 14:00:26 UTC] PHP Stack trace:
+[17-Aug-2018 14:00:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 14:00:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 14:00:32 UTC] PHP Stack trace:
+[17-Aug-2018 14:00:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 14:00:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 14:00:32 UTC] PHP Stack trace:
+[17-Aug-2018 14:00:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:31:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 16:31:31 UTC] PHP Stack trace:
+[17-Aug-2018 16:31:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:31:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 16:31:31 UTC] PHP Stack trace:
+[17-Aug-2018 16:31:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:39:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 16:39:08 UTC] PHP Stack trace:
+[17-Aug-2018 16:39:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:39:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 16:39:08 UTC] PHP Stack trace:
+[17-Aug-2018 16:39:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:43:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 16:43:32 UTC] PHP Stack trace:
+[17-Aug-2018 16:43:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:43:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 16:43:32 UTC] PHP Stack trace:
+[17-Aug-2018 16:43:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:44:22 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 16:44:22 UTC] PHP Stack trace:
+[17-Aug-2018 16:44:22 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:44:22 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 16:44:22 UTC] PHP Stack trace:
+[17-Aug-2018 16:44:22 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:44:49 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 16:44:49 UTC] PHP Stack trace:
+[17-Aug-2018 16:44:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 16:44:49 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 16:44:49 UTC] PHP Stack trace:
+[17-Aug-2018 16:44:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:17:53 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 17:17:53 UTC] PHP Stack trace:
+[17-Aug-2018 17:17:53 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:17:53 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 17:17:53 UTC] PHP Stack trace:
+[17-Aug-2018 17:17:53 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 17:18:23 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 17:18:23 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 17:18:31 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 17:18:31 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:48 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 17:18:48 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 17:18:48 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 17:18:48 UTC] PHP Stack trace:
+[17-Aug-2018 17:18:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 21:04:41 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Aug-2018 21:04:41 UTC] PHP Stack trace:
+[17-Aug-2018 21:04:41 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Aug-2018 21:04:41 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Aug-2018 21:04:41 UTC] PHP Stack trace:
+[17-Aug-2018 21:04:41 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Aug-2018 13:35:55 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Aug-2018 13:35:55 UTC] PHP Stack trace:
+[21-Aug-2018 13:35:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Aug-2018 13:35:55 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Aug-2018 13:35:55 UTC] PHP Stack trace:
+[21-Aug-2018 13:35:55 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Aug-2018 22:07:47 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[22-Aug-2018 22:07:47 UTC] PHP Stack trace:
+[22-Aug-2018 22:07:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Aug-2018 22:07:47 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[22-Aug-2018 22:07:47 UTC] PHP Stack trace:
+[22-Aug-2018 22:07:47 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Aug-2018 19:42:48 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[23-Aug-2018 19:42:48 UTC] PHP Stack trace:
+[23-Aug-2018 19:42:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Aug-2018 19:42:48 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[23-Aug-2018 19:42:48 UTC] PHP Stack trace:
+[23-Aug-2018 19:42:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Aug-2018 18:48:37 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Aug-2018 18:48:37 UTC] PHP Stack trace:
+[27-Aug-2018 18:48:37 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Aug-2018 18:48:37 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Aug-2018 18:48:37 UTC] PHP Stack trace:
+[27-Aug-2018 18:48:37 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Aug-2018 13:17:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Aug-2018 13:17:20 UTC] PHP Stack trace:
+[28-Aug-2018 13:17:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Aug-2018 13:17:20 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Aug-2018 13:17:20 UTC] PHP Stack trace:
+[28-Aug-2018 13:17:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 13:52:13 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Aug-2018 13:52:13 UTC] PHP Stack trace:
+[29-Aug-2018 13:52:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 13:52:13 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Aug-2018 13:52:13 UTC] PHP Stack trace:
+[29-Aug-2018 13:52:13 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 15:21:21 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Aug-2018 15:21:21 UTC] PHP Stack trace:
+[29-Aug-2018 15:21:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 15:21:21 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Aug-2018 15:21:21 UTC] PHP Stack trace:
+[29-Aug-2018 15:21:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 16:45:04 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Aug-2018 16:45:04 UTC] PHP Stack trace:
+[29-Aug-2018 16:45:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 16:45:04 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Aug-2018 16:45:04 UTC] PHP Stack trace:
+[29-Aug-2018 16:45:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 17:28:11 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Aug-2018 17:28:11 UTC] PHP Stack trace:
+[29-Aug-2018 17:28:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Aug-2018 17:28:11 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Aug-2018 17:28:11 UTC] PHP Stack trace:
+[29-Aug-2018 17:28:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Aug-2018 15:47:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[30-Aug-2018 15:47:32 UTC] PHP Stack trace:
+[30-Aug-2018 15:47:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Aug-2018 15:47:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[30-Aug-2018 15:47:32 UTC] PHP Stack trace:
+[30-Aug-2018 15:47:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Sep-2018 13:05:41 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Sep-2018 13:05:41 UTC] PHP Stack trace:
+[02-Sep-2018 13:05:41 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Sep-2018 13:05:41 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Sep-2018 13:05:41 UTC] PHP Stack trace:
+[02-Sep-2018 13:05:41 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Sep-2018 19:38:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Sep-2018 19:38:52 UTC] PHP Stack trace:
+[02-Sep-2018 19:38:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Sep-2018 19:38:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Sep-2018 19:38:52 UTC] PHP Stack trace:
+[02-Sep-2018 19:38:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 09:19:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 09:19:08 UTC] PHP Stack trace:
+[03-Sep-2018 09:19:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 09:19:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 09:19:08 UTC] PHP Stack trace:
+[03-Sep-2018 09:19:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 15:38:09 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 15:38:09 UTC] PHP Stack trace:
+[03-Sep-2018 15:38:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 15:38:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 15:38:09 UTC] PHP Stack trace:
+[03-Sep-2018 15:38:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 16:06:11 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 16:06:11 UTC] PHP Stack trace:
+[03-Sep-2018 16:06:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 16:06:11 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 16:06:11 UTC] PHP Stack trace:
+[03-Sep-2018 16:06:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 21:33:03 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 21:33:03 UTC] PHP Stack trace:
+[03-Sep-2018 21:33:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 21:33:03 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 21:33:03 UTC] PHP Stack trace:
+[03-Sep-2018 21:33:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 22:49:24 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 22:49:24 UTC] PHP Stack trace:
+[03-Sep-2018 22:49:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 22:49:24 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 22:49:24 UTC] PHP Stack trace:
+[03-Sep-2018 22:49:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 23:07:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Sep-2018 23:07:44 UTC] PHP Stack trace:
+[03-Sep-2018 23:07:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Sep-2018 23:07:44 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Sep-2018 23:07:44 UTC] PHP Stack trace:
+[03-Sep-2018 23:07:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Sep-2018 13:16:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[04-Sep-2018 13:16:44 UTC] PHP Stack trace:
+[04-Sep-2018 13:16:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Sep-2018 13:16:44 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[04-Sep-2018 13:16:44 UTC] PHP Stack trace:
+[04-Sep-2018 13:16:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 12:48:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Sep-2018 12:48:15 UTC] PHP Stack trace:
+[06-Sep-2018 12:48:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 12:48:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Sep-2018 12:48:15 UTC] PHP Stack trace:
+[06-Sep-2018 12:48:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 20:20:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Sep-2018 20:20:31 UTC] PHP Stack trace:
+[06-Sep-2018 20:20:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 20:20:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Sep-2018 20:20:31 UTC] PHP Stack trace:
+[06-Sep-2018 20:20:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 20:24:17 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Sep-2018 20:24:17 UTC] PHP Stack trace:
+[06-Sep-2018 20:24:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 20:24:17 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Sep-2018 20:24:17 UTC] PHP Stack trace:
+[06-Sep-2018 20:24:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 20:24:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[06-Sep-2018 20:24:20 UTC] PHP Stack trace:
+[06-Sep-2018 20:24:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Sep-2018 20:33:12 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/private/modelo/db.class.php on line 485
+[06-Sep-2018 20:33:12 UTC] PHP Stack trace:
+[06-Sep-2018 20:33:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Sep-2018 20:33:12 UTC] PHP   2. opciones->envioCorreo() /home/redrausc/public_html/sicpmt/registro.php:13
+[06-Sep-2018 21:36:29 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/private/modelo/db.class.php on line 485
+[06-Sep-2018 21:36:29 UTC] PHP Stack trace:
+[06-Sep-2018 21:36:29 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Sep-2018 21:36:29 UTC] PHP   2. opciones->envioCorreo() /home/redrausc/public_html/sicpmt/registro.php:13
+[06-Sep-2018 21:37:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Sep-2018 21:37:43 UTC] PHP Stack trace:
+[06-Sep-2018 21:37:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 21:37:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Sep-2018 21:37:43 UTC] PHP Stack trace:
+[06-Sep-2018 21:37:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 21:37:44 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[06-Sep-2018 21:37:44 UTC] PHP Stack trace:
+[06-Sep-2018 21:37:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Sep-2018 21:38:40 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/private/modelo/db.class.php on line 485
+[06-Sep-2018 21:38:40 UTC] PHP Stack trace:
+[06-Sep-2018 21:38:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[06-Sep-2018 21:38:40 UTC] PHP   2. opciones->envioCorreo() /home/redrausc/public_html/sicpmt/registro.php:13
+[06-Sep-2018 21:46:05 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Sep-2018 21:46:05 UTC] PHP Stack trace:
+[06-Sep-2018 21:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Sep-2018 21:46:05 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Sep-2018 21:46:05 UTC] PHP Stack trace:
+[06-Sep-2018 21:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Sep-2018 20:29:01 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[07-Sep-2018 20:29:01 UTC] PHP Stack trace:
+[07-Sep-2018 20:29:01 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Sep-2018 20:29:01 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[07-Sep-2018 20:29:01 UTC] PHP Stack trace:
+[07-Sep-2018 20:29:01 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Sep-2018 20:56:20 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[07-Sep-2018 20:56:20 UTC] PHP Stack trace:
+[07-Sep-2018 20:56:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Sep-2018 20:56:20 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[07-Sep-2018 20:56:20 UTC] PHP Stack trace:
+[07-Sep-2018 20:56:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Sep-2018 13:51:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[08-Sep-2018 13:51:32 UTC] PHP Stack trace:
+[08-Sep-2018 13:51:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Sep-2018 13:51:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[08-Sep-2018 13:51:32 UTC] PHP Stack trace:
+[08-Sep-2018 13:51:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Sep-2018 23:34:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Sep-2018 23:34:15 UTC] PHP Stack trace:
+[09-Sep-2018 23:34:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Sep-2018 23:34:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Sep-2018 23:34:15 UTC] PHP Stack trace:
+[09-Sep-2018 23:34:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 12:59:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Sep-2018 12:59:52 UTC] PHP Stack trace:
+[10-Sep-2018 12:59:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 12:59:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Sep-2018 12:59:52 UTC] PHP Stack trace:
+[10-Sep-2018 12:59:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:16:00 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Sep-2018 16:16:00 UTC] PHP Stack trace:
+[10-Sep-2018 16:16:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:16:00 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Sep-2018 16:16:00 UTC] PHP Stack trace:
+[10-Sep-2018 16:16:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:06 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Sep-2018 16:19:06 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:06 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Sep-2018 16:19:06 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:12 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Sep-2018 16:19:12 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:12 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Sep-2018 16:19:12 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:15 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Sep-2018 16:19:15 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Sep-2018 16:19:15 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Sep-2018 16:19:15 UTC] PHP Stack trace:
+[10-Sep-2018 16:19:15 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Sep-2018 13:03:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Sep-2018 13:03:31 UTC] PHP Stack trace:
+[11-Sep-2018 13:03:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Sep-2018 13:03:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Sep-2018 13:03:31 UTC] PHP Stack trace:
+[11-Sep-2018 13:03:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Sep-2018 19:37:03 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[12-Sep-2018 19:37:03 UTC] PHP Stack trace:
+[12-Sep-2018 19:37:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Sep-2018 19:37:03 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[12-Sep-2018 19:37:03 UTC] PHP Stack trace:
+[12-Sep-2018 19:37:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 01:09:32 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 01:09:32 UTC] PHP Stack trace:
+[13-Sep-2018 01:09:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 01:09:32 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 01:09:32 UTC] PHP Stack trace:
+[13-Sep-2018 01:09:32 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 13:13:17 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 13:13:17 UTC] PHP Stack trace:
+[13-Sep-2018 13:13:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 13:13:17 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 13:13:17 UTC] PHP Stack trace:
+[13-Sep-2018 13:13:17 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 13:13:18 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 13:13:18 UTC] PHP Stack trace:
+[13-Sep-2018 13:13:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 13:13:18 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 13:13:18 UTC] PHP Stack trace:
+[13-Sep-2018 13:13:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 19:12:27 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 19:12:27 UTC] PHP Stack trace:
+[13-Sep-2018 19:12:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 19:12:27 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 19:12:27 UTC] PHP Stack trace:
+[13-Sep-2018 19:12:27 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:11:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 21:11:25 UTC] PHP Stack trace:
+[13-Sep-2018 21:11:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:11:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 21:11:25 UTC] PHP Stack trace:
+[13-Sep-2018 21:11:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:16:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 21:16:08 UTC] PHP Stack trace:
+[13-Sep-2018 21:16:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:16:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 21:16:08 UTC] PHP Stack trace:
+[13-Sep-2018 21:16:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:16:33 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/registro.php on line 9
+[13-Sep-2018 21:16:33 UTC] PHP Stack trace:
+[13-Sep-2018 21:16:33 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/registro.php:0
+[13-Sep-2018 21:17:08 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[13-Sep-2018 21:17:08 UTC] PHP Stack trace:
+[13-Sep-2018 21:17:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:17:08 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[13-Sep-2018 21:17:08 UTC] PHP Stack trace:
+[13-Sep-2018 21:17:08 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[13-Sep-2018 21:17:10 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[13-Sep-2018 21:17:10 UTC] PHP Stack trace:
+[13-Sep-2018 21:17:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[13-Sep-2018 21:17:18 UTC] PHP Notice:  Undefined index: forgotInputEmail in /home/redrausc/public_html/sicpmt/forgot.php on line 9
+[13-Sep-2018 21:17:18 UTC] PHP Stack trace:
+[13-Sep-2018 21:17:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/forgot.php:0
+[14-Sep-2018 13:19:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[14-Sep-2018 13:19:54 UTC] PHP Stack trace:
+[14-Sep-2018 13:19:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Sep-2018 13:19:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[14-Sep-2018 13:19:54 UTC] PHP Stack trace:
+[14-Sep-2018 13:19:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Sep-2018 14:37:51 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[14-Sep-2018 14:37:51 UTC] PHP Stack trace:
+[14-Sep-2018 14:37:51 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[14-Sep-2018 14:37:51 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[14-Sep-2018 14:37:51 UTC] PHP Stack trace:
+[14-Sep-2018 14:37:51 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[15-Sep-2018 22:54:36 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[15-Sep-2018 22:54:36 UTC] PHP Stack trace:
+[15-Sep-2018 22:54:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[15-Sep-2018 22:54:36 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[15-Sep-2018 22:54:36 UTC] PHP Stack trace:
+[15-Sep-2018 22:54:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Sep-2018 13:13:12 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[17-Sep-2018 13:13:12 UTC] PHP Stack trace:
+[17-Sep-2018 13:13:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[17-Sep-2018 13:13:12 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[17-Sep-2018 13:13:12 UTC] PHP Stack trace:
+[17-Sep-2018 13:13:12 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Sep-2018 13:15:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Sep-2018 13:15:07 UTC] PHP Stack trace:
+[18-Sep-2018 13:15:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Sep-2018 13:15:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Sep-2018 13:15:07 UTC] PHP Stack trace:
+[18-Sep-2018 13:15:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Sep-2018 13:46:05 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[19-Sep-2018 13:46:05 UTC] PHP Stack trace:
+[19-Sep-2018 13:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Sep-2018 13:46:05 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[19-Sep-2018 13:46:05 UTC] PHP Stack trace:
+[19-Sep-2018 13:46:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 11:28:49 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 11:28:49 UTC] PHP Stack trace:
+[21-Sep-2018 11:28:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 11:28:49 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 11:28:49 UTC] PHP Stack trace:
+[21-Sep-2018 11:28:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:14:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 19:14:31 UTC] PHP Stack trace:
+[21-Sep-2018 19:14:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:14:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 19:14:31 UTC] PHP Stack trace:
+[21-Sep-2018 19:14:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:34:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 19:34:31 UTC] PHP Stack trace:
+[21-Sep-2018 19:34:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:34:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 19:34:31 UTC] PHP Stack trace:
+[21-Sep-2018 19:34:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:35:00 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 19:35:00 UTC] PHP Stack trace:
+[21-Sep-2018 19:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:35:00 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 19:35:00 UTC] PHP Stack trace:
+[21-Sep-2018 19:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:35:09 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 19:35:09 UTC] PHP Stack trace:
+[21-Sep-2018 19:35:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 19:35:09 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 19:35:09 UTC] PHP Stack trace:
+[21-Sep-2018 19:35:09 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:13:05 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 20:13:05 UTC] PHP Stack trace:
+[21-Sep-2018 20:13:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:13:05 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 20:13:05 UTC] PHP Stack trace:
+[21-Sep-2018 20:13:05 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:47:21 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 20:47:21 UTC] PHP Stack trace:
+[21-Sep-2018 20:47:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:47:21 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 20:47:21 UTC] PHP Stack trace:
+[21-Sep-2018 20:47:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:50:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Sep-2018 20:50:07 UTC] PHP Stack trace:
+[21-Sep-2018 20:50:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Sep-2018 20:50:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Sep-2018 20:50:07 UTC] PHP Stack trace:
+[21-Sep-2018 20:50:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Sep-2018 22:41:34 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[22-Sep-2018 22:41:34 UTC] PHP Stack trace:
+[22-Sep-2018 22:41:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Sep-2018 22:41:34 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[22-Sep-2018 22:41:34 UTC] PHP Stack trace:
+[22-Sep-2018 22:41:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Sep-2018 13:16:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Sep-2018 13:16:07 UTC] PHP Stack trace:
+[24-Sep-2018 13:16:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Sep-2018 13:16:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Sep-2018 13:16:07 UTC] PHP Stack trace:
+[24-Sep-2018 13:16:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Sep-2018 21:42:45 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[25-Sep-2018 21:42:45 UTC] PHP Stack trace:
+[25-Sep-2018 21:42:45 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Sep-2018 21:42:45 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[25-Sep-2018 21:42:45 UTC] PHP Stack trace:
+[25-Sep-2018 21:42:45 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Sep-2018 12:45:03 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[26-Sep-2018 12:45:03 UTC] PHP Stack trace:
+[26-Sep-2018 12:45:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Sep-2018 12:45:03 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[26-Sep-2018 12:45:03 UTC] PHP Stack trace:
+[26-Sep-2018 12:45:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Sep-2018 14:58:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Sep-2018 14:58:52 UTC] PHP Stack trace:
+[27-Sep-2018 14:58:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Sep-2018 14:58:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Sep-2018 14:58:52 UTC] PHP Stack trace:
+[27-Sep-2018 14:58:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Sep-2018 20:18:48 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Sep-2018 20:18:48 UTC] PHP Stack trace:
+[27-Sep-2018 20:18:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Sep-2018 20:18:48 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Sep-2018 20:18:48 UTC] PHP Stack trace:
+[27-Sep-2018 20:18:48 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Sep-2018 19:16:30 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Sep-2018 19:16:30 UTC] PHP Stack trace:
+[28-Sep-2018 19:16:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Sep-2018 19:16:30 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Sep-2018 19:16:30 UTC] PHP Stack trace:
+[28-Sep-2018 19:16:30 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Sep-2018 20:52:31 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Sep-2018 20:52:31 UTC] PHP Stack trace:
+[28-Sep-2018 20:52:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Sep-2018 20:52:31 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Sep-2018 20:52:31 UTC] PHP Stack trace:
+[28-Sep-2018 20:52:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Oct-2018 13:24:26 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Oct-2018 13:24:26 UTC] PHP Stack trace:
+[01-Oct-2018 13:24:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Oct-2018 13:24:26 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Oct-2018 13:24:26 UTC] PHP Stack trace:
+[01-Oct-2018 13:24:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Oct-2018 18:38:11 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Oct-2018 18:38:11 UTC] PHP Stack trace:
+[01-Oct-2018 18:38:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Oct-2018 18:38:11 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Oct-2018 18:38:11 UTC] PHP Stack trace:
+[01-Oct-2018 18:38:11 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:36:25 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 15:36:25 UTC] PHP Stack trace:
+[02-Oct-2018 15:36:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:36:25 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 15:36:25 UTC] PHP Stack trace:
+[02-Oct-2018 15:36:25 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:36:40 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 15:36:40 UTC] PHP Stack trace:
+[02-Oct-2018 15:36:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:36:40 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 15:36:40 UTC] PHP Stack trace:
+[02-Oct-2018 15:36:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:37:49 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 15:37:49 UTC] PHP Stack trace:
+[02-Oct-2018 15:37:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:37:49 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 15:37:49 UTC] PHP Stack trace:
+[02-Oct-2018 15:37:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:41:38 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 15:41:38 UTC] PHP Stack trace:
+[02-Oct-2018 15:41:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 15:41:38 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 15:41:38 UTC] PHP Stack trace:
+[02-Oct-2018 15:41:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 19:34:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 19:34:54 UTC] PHP Stack trace:
+[02-Oct-2018 19:34:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 19:34:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 19:34:54 UTC] PHP Stack trace:
+[02-Oct-2018 19:34:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 21:01:07 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 21:01:07 UTC] PHP Stack trace:
+[02-Oct-2018 21:01:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 21:01:07 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 21:01:07 UTC] PHP Stack trace:
+[02-Oct-2018 21:01:07 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 21:23:04 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Oct-2018 21:23:04 UTC] PHP Stack trace:
+[02-Oct-2018 21:23:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Oct-2018 21:23:04 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Oct-2018 21:23:04 UTC] PHP Stack trace:
+[02-Oct-2018 21:23:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 01:10:52 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 01:10:52 UTC] PHP Stack trace:
+[03-Oct-2018 01:10:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 01:10:52 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 01:10:52 UTC] PHP Stack trace:
+[03-Oct-2018 01:10:52 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 01:14:44 UTC] PHP Notice:  Undefined index: usuario in /home/redrausc/public_html/sicpmt/logout.php on line 4
+[03-Oct-2018 01:14:44 UTC] PHP Stack trace:
+[03-Oct-2018 01:14:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/logout.php:0
+[03-Oct-2018 01:14:51 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 01:14:51 UTC] PHP Stack trace:
+[03-Oct-2018 01:14:51 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 01:14:51 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 01:14:51 UTC] PHP Stack trace:
+[03-Oct-2018 01:14:51 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 13:04:23 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 13:04:23 UTC] PHP Stack trace:
+[03-Oct-2018 13:04:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 13:04:23 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 13:04:23 UTC] PHP Stack trace:
+[03-Oct-2018 13:04:23 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 15:44:21 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 15:44:21 UTC] PHP Stack trace:
+[03-Oct-2018 15:44:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 15:44:21 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 15:44:21 UTC] PHP Stack trace:
+[03-Oct-2018 15:44:21 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:21:40 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 21:21:40 UTC] PHP Stack trace:
+[03-Oct-2018 21:21:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:21:40 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 21:21:40 UTC] PHP Stack trace:
+[03-Oct-2018 21:21:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:24:38 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 21:24:38 UTC] PHP Stack trace:
+[03-Oct-2018 21:24:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:24:38 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 21:24:38 UTC] PHP Stack trace:
+[03-Oct-2018 21:24:38 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:27:34 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 21:27:34 UTC] PHP Stack trace:
+[03-Oct-2018 21:27:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:27:34 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 21:27:34 UTC] PHP Stack trace:
+[03-Oct-2018 21:27:34 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:29:54 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 21:29:54 UTC] PHP Stack trace:
+[03-Oct-2018 21:29:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:29:54 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 21:29:54 UTC] PHP Stack trace:
+[03-Oct-2018 21:29:54 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:30:24 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 21:30:24 UTC] PHP Stack trace:
+[03-Oct-2018 21:30:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 21:30:24 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 21:30:24 UTC] PHP Stack trace:
+[03-Oct-2018 21:30:24 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 23:34:49 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 23:34:49 UTC] PHP Stack trace:
+[03-Oct-2018 23:34:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 23:34:49 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 23:34:49 UTC] PHP Stack trace:
+[03-Oct-2018 23:34:49 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 23:35:00 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Oct-2018 23:35:00 UTC] PHP Stack trace:
+[03-Oct-2018 23:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Oct-2018 23:35:00 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Oct-2018 23:35:00 UTC] PHP Stack trace:
+[03-Oct-2018 23:35:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 13:49:43 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[04-Oct-2018 13:49:43 UTC] PHP Stack trace:
+[04-Oct-2018 13:49:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 13:49:43 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[04-Oct-2018 13:49:43 UTC] PHP Stack trace:
+[04-Oct-2018 13:49:43 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 14:30:04 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[04-Oct-2018 14:30:04 UTC] PHP Stack trace:
+[04-Oct-2018 14:30:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 14:30:04 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[04-Oct-2018 14:30:04 UTC] PHP Stack trace:
+[04-Oct-2018 14:30:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 16:18:00 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[04-Oct-2018 16:18:00 UTC] PHP Stack trace:
+[04-Oct-2018 16:18:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 16:18:00 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[04-Oct-2018 16:18:00 UTC] PHP Stack trace:
+[04-Oct-2018 16:18:00 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 16:29:06 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[04-Oct-2018 16:29:06 UTC] PHP Stack trace:
+[04-Oct-2018 16:29:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[04-Oct-2018 16:29:06 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[04-Oct-2018 16:29:06 UTC] PHP Stack trace:
+[04-Oct-2018 16:29:06 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Oct-2018 13:44:56 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Oct-2018 13:44:56 UTC] PHP Stack trace:
+[05-Oct-2018 13:44:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Oct-2018 13:44:56 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Oct-2018 13:44:56 UTC] PHP Stack trace:
+[05-Oct-2018 13:44:56 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Oct-2018 13:11:36 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[08-Oct-2018 13:11:36 UTC] PHP Stack trace:
+[08-Oct-2018 13:11:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Oct-2018 13:11:36 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[08-Oct-2018 13:11:36 UTC] PHP Stack trace:
+[08-Oct-2018 13:11:36 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Oct-2018 12:39:10 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Oct-2018 12:39:10 UTC] PHP Stack trace:
+[10-Oct-2018 12:39:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Oct-2018 12:39:10 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Oct-2018 12:39:10 UTC] PHP Stack trace:
+[10-Oct-2018 12:39:10 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Oct-2018 18:59:56 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[10-Oct-2018 18:59:57 UTC] PHP Stack trace:
+[10-Oct-2018 18:59:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[10-Oct-2018 18:59:57 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[10-Oct-2018 18:59:57 UTC] PHP Stack trace:
+[10-Oct-2018 18:59:57 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Oct-2018 17:16:40 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[11-Oct-2018 17:16:40 UTC] PHP Stack trace:
+[11-Oct-2018 17:16:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[11-Oct-2018 17:16:40 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[11-Oct-2018 17:16:40 UTC] PHP Stack trace:
+[11-Oct-2018 17:16:40 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Oct-2018 14:44:26 UTC] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[12-Oct-2018 14:44:26 UTC] PHP Stack trace:
+[12-Oct-2018 14:44:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Oct-2018 14:44:26 UTC] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[12-Oct-2018 14:44:26 UTC] PHP Stack trace:
+[12-Oct-2018 14:44:26 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:19:15 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[16-Oct-2018 11:19:15 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:19:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:19:15 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[16-Oct-2018 11:19:15 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:19:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:35:15 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[16-Oct-2018 11:35:15 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:35:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:35:15 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[16-Oct-2018 11:35:15 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:35:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:40:58 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[16-Oct-2018 11:40:58 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:40:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[16-Oct-2018 11:40:58 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[16-Oct-2018 11:40:58 America/Bogota] PHP Stack trace:
+[16-Oct-2018 11:40:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Oct-2018 08:14:17 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Oct-2018 08:14:17 America/Bogota] PHP Stack trace:
+[18-Oct-2018 08:14:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Oct-2018 08:14:17 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Oct-2018 08:14:17 America/Bogota] PHP Stack trace:
+[18-Oct-2018 08:14:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Oct-2018 14:52:43 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[18-Oct-2018 14:52:43 America/Bogota] PHP Stack trace:
+[18-Oct-2018 14:52:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[18-Oct-2018 14:52:43 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[18-Oct-2018 14:52:43 America/Bogota] PHP Stack trace:
+[18-Oct-2018 14:52:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Oct-2018 08:29:27 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[19-Oct-2018 08:29:27 America/Bogota] PHP Stack trace:
+[19-Oct-2018 08:29:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Oct-2018 08:29:27 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[19-Oct-2018 08:29:27 America/Bogota] PHP Stack trace:
+[19-Oct-2018 08:29:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Oct-2018 08:50:55 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[19-Oct-2018 08:50:55 America/Bogota] PHP Stack trace:
+[19-Oct-2018 08:50:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[19-Oct-2018 08:50:55 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[19-Oct-2018 08:50:55 America/Bogota] PHP Stack trace:
+[19-Oct-2018 08:50:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Oct-2018 09:08:48 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[22-Oct-2018 09:08:48 America/Bogota] PHP Stack trace:
+[22-Oct-2018 09:08:48 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Oct-2018 09:08:48 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[22-Oct-2018 09:08:48 America/Bogota] PHP Stack trace:
+[22-Oct-2018 09:08:48 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Oct-2018 09:09:52 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[22-Oct-2018 09:09:52 America/Bogota] PHP Stack trace:
+[22-Oct-2018 09:09:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[22-Oct-2018 09:09:52 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[22-Oct-2018 09:09:52 America/Bogota] PHP Stack trace:
+[22-Oct-2018 09:09:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Oct-2018 21:17:55 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[23-Oct-2018 21:17:55 America/Bogota] PHP Stack trace:
+[23-Oct-2018 21:17:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[23-Oct-2018 21:17:55 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[23-Oct-2018 21:17:55 America/Bogota] PHP Stack trace:
+[23-Oct-2018 21:17:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 08:24:07 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 08:24:07 America/Bogota] PHP Stack trace:
+[24-Oct-2018 08:24:07 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 08:24:07 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 08:24:07 America/Bogota] PHP Stack trace:
+[24-Oct-2018 08:24:07 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 14:56:11 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 14:56:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 14:56:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 14:56:11 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 14:56:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 14:56:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 16:59:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 16:59:29 America/Bogota] PHP Stack trace:
+[24-Oct-2018 16:59:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 16:59:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 16:59:29 America/Bogota] PHP Stack trace:
+[24-Oct-2018 16:59:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:33:53 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:33:53 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:33:53 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:33:53 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:33:53 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:33:53 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:36:11 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:36:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:36:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:36:11 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:36:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:36:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:02 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:38:02 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:02 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:38:02 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:42 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:38:42 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:42 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:38:42 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:43 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:38:43 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:38:43 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:38:43 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:38:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:39:25 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:39:25 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:39:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:39:25 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:39:25 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:39:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:39:52 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:39:52 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:39:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:39:52 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:39:52 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:39:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:08 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:08 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:08 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:08 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:08 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:08 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:18 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:18 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:18 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:18 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:18 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:18 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:45 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:45 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:45 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:45 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:45 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:45 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:46 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:46 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:46 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:46 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:46 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:46 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:46 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:46 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:57 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:40:57 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:57 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:40:57 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:40:57 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:40:57 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:10 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:10 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:10 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:10 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:10 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:10 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:11 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:11 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:11 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 17:41:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 17:41:12 America/Bogota] PHP Stack trace:
+[24-Oct-2018 17:41:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 22:17:49 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[24-Oct-2018 22:17:49 America/Bogota] PHP Stack trace:
+[24-Oct-2018 22:17:49 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[24-Oct-2018 22:17:49 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[24-Oct-2018 22:17:49 America/Bogota] PHP Stack trace:
+[24-Oct-2018 22:17:49 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Oct-2018 11:50:28 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[25-Oct-2018 11:50:28 America/Bogota] PHP Stack trace:
+[25-Oct-2018 11:50:28 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Oct-2018 11:50:28 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[25-Oct-2018 11:50:28 America/Bogota] PHP Stack trace:
+[25-Oct-2018 11:50:28 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Oct-2018 11:52:27 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[25-Oct-2018 11:52:27 America/Bogota] PHP Stack trace:
+[25-Oct-2018 11:52:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[25-Oct-2018 11:52:27 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[25-Oct-2018 11:52:27 America/Bogota] PHP Stack trace:
+[25-Oct-2018 11:52:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 15:57:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[26-Oct-2018 15:57:29 America/Bogota] PHP Stack trace:
+[26-Oct-2018 15:57:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 15:57:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[26-Oct-2018 15:57:29 America/Bogota] PHP Stack trace:
+[26-Oct-2018 15:57:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 16:05:50 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[26-Oct-2018 16:05:50 America/Bogota] PHP Stack trace:
+[26-Oct-2018 16:05:50 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 16:05:50 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[26-Oct-2018 16:05:50 America/Bogota] PHP Stack trace:
+[26-Oct-2018 16:05:50 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 17:19:13 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[26-Oct-2018 17:19:13 America/Bogota] PHP Stack trace:
+[26-Oct-2018 17:19:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[26-Oct-2018 17:19:13 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[26-Oct-2018 17:19:13 America/Bogota] PHP Stack trace:
+[26-Oct-2018 17:19:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 08:11:15 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Oct-2018 08:11:15 America/Bogota] PHP Stack trace:
+[29-Oct-2018 08:11:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 08:11:15 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Oct-2018 08:11:15 America/Bogota] PHP Stack trace:
+[29-Oct-2018 08:11:15 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 08:56:54 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Oct-2018 08:56:54 America/Bogota] PHP Stack trace:
+[29-Oct-2018 08:56:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 08:56:54 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Oct-2018 08:56:54 America/Bogota] PHP Stack trace:
+[29-Oct-2018 08:56:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 21:10:56 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Oct-2018 21:10:56 America/Bogota] PHP Stack trace:
+[29-Oct-2018 21:10:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Oct-2018 21:10:56 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Oct-2018 21:10:56 America/Bogota] PHP Stack trace:
+[29-Oct-2018 21:10:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Oct-2018 09:09:26 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[30-Oct-2018 09:09:26 America/Bogota] PHP Stack trace:
+[30-Oct-2018 09:09:26 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Oct-2018 09:09:26 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[30-Oct-2018 09:09:26 America/Bogota] PHP Stack trace:
+[30-Oct-2018 09:09:26 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Oct-2018 22:18:55 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[30-Oct-2018 22:18:55 America/Bogota] PHP Stack trace:
+[30-Oct-2018 22:18:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[30-Oct-2018 22:18:55 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[30-Oct-2018 22:18:55 America/Bogota] PHP Stack trace:
+[30-Oct-2018 22:18:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Nov-2018 07:31:54 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Nov-2018 07:31:54 America/Bogota] PHP Stack trace:
+[01-Nov-2018 07:31:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Nov-2018 07:31:54 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Nov-2018 07:31:54 America/Bogota] PHP Stack trace:
+[01-Nov-2018 07:31:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Nov-2018 07:49:42 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[01-Nov-2018 07:49:42 America/Bogota] PHP Stack trace:
+[01-Nov-2018 07:49:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[01-Nov-2018 07:49:42 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[01-Nov-2018 07:49:42 America/Bogota] PHP Stack trace:
+[01-Nov-2018 07:49:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Nov-2018 08:31:04 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Nov-2018 08:31:04 America/Bogota] PHP Stack trace:
+[02-Nov-2018 08:31:04 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Nov-2018 08:31:04 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Nov-2018 08:31:04 America/Bogota] PHP Stack trace:
+[02-Nov-2018 08:31:04 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Nov-2018 09:20:14 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[02-Nov-2018 09:20:14 America/Bogota] PHP Stack trace:
+[02-Nov-2018 09:20:14 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[02-Nov-2018 09:20:14 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[02-Nov-2018 09:20:14 America/Bogota] PHP Stack trace:
+[02-Nov-2018 09:20:14 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Nov-2018 22:53:27 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[03-Nov-2018 22:53:27 America/Bogota] PHP Stack trace:
+[03-Nov-2018 22:53:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[03-Nov-2018 22:53:27 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[03-Nov-2018 22:53:27 America/Bogota] PHP Stack trace:
+[03-Nov-2018 22:53:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Nov-2018 10:59:28 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[05-Nov-2018 10:59:28 America/Bogota] PHP Stack trace:
+[05-Nov-2018 10:59:28 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[05-Nov-2018 10:59:28 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[05-Nov-2018 10:59:28 America/Bogota] PHP Stack trace:
+[05-Nov-2018 10:59:28 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 05:30:13 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Nov-2018 05:30:13 America/Bogota] PHP Stack trace:
+[06-Nov-2018 05:30:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 05:30:13 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Nov-2018 05:30:13 America/Bogota] PHP Stack trace:
+[06-Nov-2018 05:30:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 05:58:35 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Nov-2018 05:58:35 America/Bogota] PHP Stack trace:
+[06-Nov-2018 05:58:35 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 05:58:35 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Nov-2018 05:58:35 America/Bogota] PHP Stack trace:
+[06-Nov-2018 05:58:35 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 21:22:10 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Nov-2018 21:22:10 America/Bogota] PHP Stack trace:
+[06-Nov-2018 21:22:10 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Nov-2018 21:22:10 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Nov-2018 21:22:10 America/Bogota] PHP Stack trace:
+[06-Nov-2018 21:22:10 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Nov-2018 08:52:24 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[07-Nov-2018 08:52:24 America/Bogota] PHP Stack trace:
+[07-Nov-2018 08:52:24 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[07-Nov-2018 08:52:24 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[07-Nov-2018 08:52:24 America/Bogota] PHP Stack trace:
+[07-Nov-2018 08:52:24 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Nov-2018 07:54:54 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[08-Nov-2018 07:54:54 America/Bogota] PHP Stack trace:
+[08-Nov-2018 07:54:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[08-Nov-2018 07:54:54 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[08-Nov-2018 07:54:54 America/Bogota] PHP Stack trace:
+[08-Nov-2018 07:54:54 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Nov-2018 14:28:32 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[09-Nov-2018 14:28:32 America/Bogota] PHP Stack trace:
+[09-Nov-2018 14:28:32 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[09-Nov-2018 14:28:32 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[09-Nov-2018 14:28:32 America/Bogota] PHP Stack trace:
+[09-Nov-2018 14:28:32 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:25 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[20-Nov-2018 14:43:25 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:25 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[20-Nov-2018 14:43:25 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:26 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[20-Nov-2018 14:43:26 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:26 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:26 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[20-Nov-2018 14:43:26 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:26 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:58 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[20-Nov-2018 14:43:58 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[20-Nov-2018 14:43:58 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[20-Nov-2018 14:43:58 America/Bogota] PHP Stack trace:
+[20-Nov-2018 14:43:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Nov-2018 14:10:57 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Nov-2018 14:10:57 America/Bogota] PHP Stack trace:
+[21-Nov-2018 14:10:57 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Nov-2018 14:10:57 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Nov-2018 14:10:57 America/Bogota] PHP Stack trace:
+[21-Nov-2018 14:10:57 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Nov-2018 15:30:13 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[21-Nov-2018 15:30:13 America/Bogota] PHP Stack trace:
+[21-Nov-2018 15:30:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[21-Nov-2018 15:30:13 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[21-Nov-2018 15:30:13 America/Bogota] PHP Stack trace:
+[21-Nov-2018 15:30:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:00:06 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:00:06 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:00:06 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:00:06 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:00:06 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:00:06 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:22:43 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:22:43 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:22:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:22:43 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:22:43 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:22:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:25:04 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:25:04 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:25:04 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:25:04 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:25:04 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:25:04 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:25:05 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:25:05 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:25:05 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:25:05 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:25:05 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:25:05 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:31:05 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:31:05 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:31:05 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:31:05 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:31:05 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:31:05 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:16 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:16 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:16 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:16 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:16 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:16 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:25 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:25 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:25 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:25 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:34 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:34 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:34 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:34 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:34 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:34 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:42 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:42 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:42 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:42 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:42 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:46 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:35:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:35:46 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:35:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:35:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:46:39 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:46:39 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:46:39 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:46:39 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:46:39 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:46:39 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:46:49 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:46:49 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:46:49 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:46:49 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:46:49 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:46:49 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:47:56 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:47:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:47:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:47:56 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:47:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:47:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:48:02 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:48:02 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:48:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:48:02 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:48:02 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:48:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:48:06 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:48:06 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:48:06 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:48:06 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:48:06 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:48:06 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:50:46 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:50:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:50:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:50:46 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:50:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:50:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:52:24 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 09:52:24 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:52:24 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 09:52:24 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 09:52:24 America/Bogota] PHP Stack trace:
+[27-Nov-2018 09:52:24 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:10:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:10:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:46 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:10:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:46 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:10:46 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:46 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:51 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:10:51 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:51 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:51 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:10:51 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:51 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:56 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:10:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:10:56 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:10:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:10:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:02 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:11:02 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:02 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:11:02 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:07 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:11:07 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:07 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:07 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:11:07 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:07 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:11:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:11:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:11:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:11:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:52:27 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:52:27 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:52:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:52:27 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:52:27 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:52:27 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:52:43 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 10:52:43 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:52:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 10:52:43 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 10:52:43 America/Bogota] PHP Stack trace:
+[27-Nov-2018 10:52:43 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:03:56 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:03:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:03:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:03:56 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:03:56 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:03:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:17:51 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:17:51 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:17:51 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:17:51 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:17:51 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:17:51 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:18:13 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:18:13 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:18:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:18:13 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:18:13 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:18:13 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:18:18 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:18:18 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:18:18 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:18:18 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:18:18 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:18:18 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:25:53 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:25:53 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:25:53 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:25:53 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:25:53 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:25:53 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:26:17 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:26:17 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:26:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:26:17 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:26:17 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:26:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:35 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:53:35 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:35 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:35 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:53:35 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:35 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 11:53:36 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 11:53:36 America/Bogota] PHP Stack trace:
+[27-Nov-2018 11:53:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:44:17 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 22:44:17 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:44:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:44:17 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 22:44:17 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:44:17 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:47:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 22:47:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:47:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:47:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 22:47:12 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:47:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:48:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[27-Nov-2018 22:48:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:48:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[27-Nov-2018 22:48:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[27-Nov-2018 22:48:29 America/Bogota] PHP Stack trace:
+[27-Nov-2018 22:48:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:33:23 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 11:33:23 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:33:23 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:33:23 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 11:33:23 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:33:23 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:45:36 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 11:45:36 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:45:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:45:36 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 11:45:36 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:45:36 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:46:58 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 11:46:58 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:46:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:46:58 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 11:46:58 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:46:58 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:47:03 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 11:47:03 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:47:03 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:47:03 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 11:47:03 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:47:03 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:52:03 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 11:52:03 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:52:03 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 11:52:03 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 11:52:03 America/Bogota] PHP Stack trace:
+[28-Nov-2018 11:52:03 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 15:43:00 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 15:43:00 America/Bogota] PHP Stack trace:
+[28-Nov-2018 15:43:00 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 15:43:00 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 15:43:00 America/Bogota] PHP Stack trace:
+[28-Nov-2018 15:43:00 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 16:23:22 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 16:23:22 America/Bogota] PHP Stack trace:
+[28-Nov-2018 16:23:22 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 16:23:22 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 16:23:22 America/Bogota] PHP Stack trace:
+[28-Nov-2018 16:23:22 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 18:31:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 18:31:12 America/Bogota] PHP Stack trace:
+[28-Nov-2018 18:31:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 18:31:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 18:31:12 America/Bogota] PHP Stack trace:
+[28-Nov-2018 18:31:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 18:56:16 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 18:56:16 America/Bogota] PHP Stack trace:
+[28-Nov-2018 18:56:16 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 18:56:16 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 18:56:16 America/Bogota] PHP Stack trace:
+[28-Nov-2018 18:56:16 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:13:56 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 21:13:56 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:13:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:13:56 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 21:13:56 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:13:56 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:45:34 America/Bogota] PHP Fatal error:  Cannot redeclare Datos::terminosTesauroModel() in /home/redrausc/public_html/sicpmt/private/modelo/crud.php on line 48
+[28-Nov-2018 21:45:34 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:45:34 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:45:34 America/Bogota] PHP   2. require_once() /home/redrausc/public_html/sicpmt/index.php:4
+[28-Nov-2018 21:46:23 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 21:46:23 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:46:23 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:46:23 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 21:46:23 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:46:23 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:54:12 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 21:54:12 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:54:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 21:54:12 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 21:54:12 America/Bogota] PHP Stack trace:
+[28-Nov-2018 21:54:12 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 22:27:21 America/Bogota] PHP Notice:  Undefined index: usuario in /home/redrausc/public_html/sicpmt/logout.php on line 4
+[28-Nov-2018 22:27:21 America/Bogota] PHP Stack trace:
+[28-Nov-2018 22:27:21 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/logout.php:0
+[28-Nov-2018 22:27:29 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[28-Nov-2018 22:27:29 America/Bogota] PHP Stack trace:
+[28-Nov-2018 22:27:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[28-Nov-2018 22:27:29 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[28-Nov-2018 22:27:29 America/Bogota] PHP Stack trace:
+[28-Nov-2018 22:27:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Nov-2018 10:20:11 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[29-Nov-2018 10:20:11 America/Bogota] PHP Stack trace:
+[29-Nov-2018 10:20:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[29-Nov-2018 10:20:11 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[29-Nov-2018 10:20:11 America/Bogota] PHP Stack trace:
+[29-Nov-2018 10:20:11 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:19:34 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Dec-2018 13:19:34 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:19:34 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:19:34 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Dec-2018 13:19:34 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:19:34 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:25:02 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Dec-2018 13:25:02 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:25:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:25:02 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Dec-2018 13:25:02 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:25:02 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:28:55 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Dec-2018 13:28:55 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:28:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:28:55 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Dec-2018 13:28:55 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:28:55 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:33:25 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[06-Dec-2018 13:33:25 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:33:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[06-Dec-2018 13:33:25 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[06-Dec-2018 13:33:25 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:33:25 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Dec-2018 01:30:52 America/Bogota] PHP Notice:  Undefined index: inputEmail in /home/redrausc/public_html/sicpmt/index.php on line 7
+[12-Dec-2018 01:30:52 America/Bogota] PHP Stack trace:
+[12-Dec-2018 01:30:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0
+[12-Dec-2018 01:30:52 America/Bogota] PHP Notice:  Undefined variable: mensaje in /home/redrausc/public_html/sicpmt/index.php on line 59
+[12-Dec-2018 01:30:52 America/Bogota] PHP Stack trace:
+[12-Dec-2018 01:30:52 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/index.php:0

@@ -1,0 +1,54 @@
+.nube{
+   border: solid 0px #aaaacc;
+   background-color: #ffffff;
+   color: #666666;
+   width: 100%;
+   text-align: center;
+}
+.nube div.etiquetas{
+   font-family: verdana,arial,helvetica;
+   font-size:8pt;
+   padding:80px;
+}
+.nube div.etiquetas span{
+   float: left;
+   margin: 0 3px 0 3px;
+   height: 20pt;
+   white-space: nowrap;
+}
+.nube div.etiquetas span.etiquetatam1{
+   font-size: 120%;   
+}
+.nube div.etiquetas span.etiquetatam2{
+   font-size: 150%;   
+}
+.nube div.etiquetas span.etiquetatam3{
+   font-size: 180%;
+   color: green;   
+}
+div.etiquetas span.etiquetatam4{
+   font-size: 310%;
+   color: red;   
+}
+.nube div.etiquetas span.etiquetatam5{
+   font-size: 330%;
+      
+}
+.nube div.etiquetas span.etiquetatam6{
+   font-size: 360%;
+      
+}
+.nube div.etiquetas span.etiquetatam7{
+   font-size: 390%;
+   color: blue;
+}
+.nube div.etiquetas span.etiquetatam8{
+   font-size: 400%;
+   color: blue;   
+}
+.nube div.etiquetas span.etiquetatam9{
+   font-size: 410%;   
+}
+.nube div.etiquetas span.etiquetatam10{
+   font-size: 420%;   
+}

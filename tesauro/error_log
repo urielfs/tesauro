@@ -1,0 +1,21 @@
+[12-Jul-2018 13:52:44 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[12-Jul-2018 13:52:44 UTC] PHP Stack trace:
+[12-Jul-2018 13:52:44 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[17-Aug-2018 14:03:31 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[17-Aug-2018 14:03:31 UTC] PHP Stack trace:
+[17-Aug-2018 14:03:31 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[10-Sep-2018 18:50:04 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[10-Sep-2018 18:50:04 UTC] PHP Stack trace:
+[10-Sep-2018 18:50:04 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[13-Sep-2018 18:49:20 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[13-Sep-2018 18:49:20 UTC] PHP Stack trace:
+[13-Sep-2018 18:49:20 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[13-Sep-2018 21:14:18 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[13-Sep-2018 21:14:18 UTC] PHP Stack trace:
+[13-Sep-2018 21:14:18 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[02-Oct-2018 15:55:03 UTC] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[02-Oct-2018 15:55:03 UTC] PHP Stack trace:
+[02-Oct-2018 15:55:03 UTC] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
+[06-Dec-2018 13:40:29 America/Bogota] PHP Notice:  Undefined index: busca_dato in /home/redrausc/public_html/sicpmt/tesauro/index.php on line 5
+[06-Dec-2018 13:40:29 America/Bogota] PHP Stack trace:
+[06-Dec-2018 13:40:29 America/Bogota] PHP   1. {main}() /home/redrausc/public_html/sicpmt/tesauro/index.php:0
