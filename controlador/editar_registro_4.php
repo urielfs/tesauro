@@ -62,11 +62,12 @@ $row2 = $stmt2->fetch();
 		$varibalelonm = "lon_minutos_".$k;
 		$variablelons = "lon_segundos_".$k;
 		$variablelon = "longitud_".$k;
+		$variableidc = "idc_especie_".$k;
 		
 		$cadena_concentracion_max = $_POST[$variablemax]."|".$_POST[$variableundmax];
 		$cadena_concentracion_min = $_POST[$variablemin]."|".$_POST[$variableundmin];
 
-		$stmt3 = $db->prepare("update tesauro_c set especie=:especie,contaminante=:contaminante,concentracion=:concentracion,matriz=:matriz,concentracion_max=:concentracion_max,concentracion_min=:concentracion_min,fecha_creado=:act,lat_grados=:lat_grados,lat_minutos=:lat_minutos,lat_segundos=:lat_segundos,latitud=:latitud,lon_grados=:lon_grados,lon_minutos=:lon_minutos,lon_segundos=:lon_segundos,longitud=:longitud where id_t=:id && id=:id_c");
+		$stmt3 = $db->prepare("update tesauro_c set especie=:especie,contaminante=:contaminante,concentracion=:concentracion,matriz=:matriz,concentracion_max=:concentracion_max,concentracion_min=:concentracion_min,fecha_creado=:act,lat_grados=:lat_grados,lat_minutos=:lat_minutos,lat_segundos=:lat_segundos,latitud=:latitud,lon_grados=:lon_grados,lon_minutos=:lon_minutos,lon_segundos=:lon_segundos,longitud=:longitud where id_t=:id_t && id=:id");
 		$stmt3->bindParam(":especie", $_POST[$variable], PDO::PARAM_STR);
 		$stmt3->bindParam(":contaminante", $_POST[$variablect], PDO::PARAM_STR);
 		$stmt3->bindParam(":concentracion", $_POST[$variablecc], PDO::PARAM_STR);
@@ -82,8 +83,8 @@ $row2 = $stmt2->fetch();
 		$stmt3->bindParam(":lon_minutos", $_POST[$varibalelonm], PDO::PARAM_INT);
 		$stmt3->bindParam(":lon_segundos", $_POST[$variablelons], PDO::PARAM_INT);
 		$stmt3->bindParam(":longitud", $_POST[$variablelon], PDO::PARAM_STR);
-		$stmt3->bindParam(":id", $id_puntero, PDO::PARAM_INT);
-		$stmt3->bindParam(":id_c", $k, PDO::PARAM_INT);
+		$stmt3->bindParam(":id", $_POST[$variableidc], PDO::PARAM_INT);
+		$stmt3->bindParam(":id_t", $id_puntero, PDO::PARAM_INT);
 		
 		$stmt3->execute();
 	}
@@ -94,6 +95,8 @@ $row2 = $stmt2->fetch();
 	   $valores_especie = $b->datos_ext($id_puntero);
 	
 	   $cadena_especie = "";
+	   $contador_especies = 1; // Contador de las especies ingresadas en el Artículo
+							   // $row_especie[3], puntero del id en tabla( ANTES )
 	   
 	    
 		while($row_especie = $valores_especie->fetch()) {
@@ -127,7 +130,7 @@ $row2 = $stmt2->fetch();
 			
    			<div class='col-lg-6'>
 			 <div class='input-group'>
-			   <select name='especie_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='especie_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 				<option value='".$row_especie[0]."'>".$row_especie[0]."</option>
 				<option value=''> --- </option>
 				".$b->verLista("especies")."
@@ -139,6 +142,7 @@ $row2 = $stmt2->fetch();
               <a href='#' class='thumbnail'>
               <img src='imagenes/".$row_foto[0]."' alt='...' width='171px' heigth='180px'>
               </a>
+			  <input type='hidden' name='idc_especie_".$contador_especies."' value='".$row_especie[3]."'>
              </div>
             ";
 	   /*
@@ -161,7 +165,7 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-6'>
 			 <div class='input-group'>
-			   <select name='contaminante_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='contaminante_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 				<option value='".$row_especie[2]."'>".$row_especie[2]."</option>
 				<option value=''> --- </option>
 				".$b->verLista("contaminantes")."
@@ -172,7 +176,7 @@ $row2 = $stmt2->fetch();
 			 
 			  <div class='col-lg-6'>
 			 <div class='input-group'>
-			   <select name='matriz_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='matriz_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 				<option value='".$row_especie[4]."'>".$row_especie[4]."</option>
 				<option value=''> --- </option>
 				".$b->verLista("matriz")."
@@ -188,14 +192,14 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-4'>
 			 <div class='input-group'>
-			   <input type='text' name='concentracion_max_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_max[0]."'>
+			   <input type='text' name='concentracion_max_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_max[0]."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Concentraci&oacute;n Max.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-6 -->
 			 
 			 <div class='col-lg-2'>
 			 <div class='input-group'>
-			   <select name='und_concentracion_max_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='und_concentracion_max_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 			    <option value='".$und_concentracion_max[1]."'>".$und_concentracion_max[1]."</option>
 				<option value=''>---</option>
 				".$b->verLista("undconcentracion")."
@@ -207,14 +211,14 @@ $row2 = $stmt2->fetch();
 			 
 			  <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='text' name='concentracion_min_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_min[0]."'>
+			   <input type='text' name='concentracion_min_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_min[0]."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Concentraci&oacute;n M&iacute;n.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-6 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <select name='und_concentracion_min_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='und_concentracion_min_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 			    <option value='".$und_concentracion_min[1]."'>".$und_concentracion_min[1]."</option>
 				<option value=''>---</option>
 				".$b->verLista("undconcentracion")."
@@ -230,14 +234,14 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lat_grados_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_grados']."'>
+			   <input type='number' min='0' name='lat_grados_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_grados']."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Grados Lat.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lat_minutos_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_minutos']."'>
+			   <input type='number' min='0' name='lat_minutos_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_minutos']."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Minutos Lat.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
@@ -245,14 +249,14 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lat_segundos_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_segundos']."'>
+			   <input type='number' min='0' name='lat_segundos_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lat_segundos']."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Segundos Lat.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <select name='latitud_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='latitud_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 			     <option value='".$row_especie['latitud']."'>".$row_especie['latitud']."</option>
 				 <option value=''>---</option>
 				 <option value='N'>N</option>
@@ -269,28 +273,28 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lon_grados_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_grados']."'>
+			   <input type='number' min='0' name='lon_grados_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_grados']."'>
 			   <span class='input-group-addon' id='basic-addon11'> Grados Lon.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lon_minutos_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_minutos']."'>
+			   <input type='number' min='0' name='lon_minutos_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_minutos']."'>
 			   <span class='input-group-addon' id='basic-addon11'> Minutos Lon.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <input type='number' min='0' name='lon_segundos_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_segundos']."'>
+			   <input type='number' min='0' name='lon_segundos_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$row_especie['lon_segundos']."'>
 			   <span class='input-group-addon' id='basic-addon11'> Segundos Lon.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-3 -->
 			 
 			 <div class='col-lg-3'>
 			 <div class='input-group'>
-			   <select name='longitud_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11'>
+			   <select name='longitud_".$contador_especies."' class='form-control' aria-describedby='basic-addon11'>
 			     <option value='".$row_especie['longitud']."'>".$row_especie['longitud']."</option>
 				 <option value=''>---</option>
 				 <option value='E'>E</option>
@@ -306,8 +310,10 @@ $row2 = $stmt2->fetch();
 			 </div><!-- /.panel-body -->
 			 </div><!-- /.panel panel-info -->
 			";
+			
+			$contador_especies ++;
 		}		
-
+	
 	
   }
 

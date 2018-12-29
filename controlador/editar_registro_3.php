@@ -95,7 +95,7 @@ $row2 = $stmt2->fetch();
             <div class='panel-heading'>
             <h3 class='panel-title'>Grupo especie #".$row_especie[3]."
 			  <input type='button' class='btn btn-info' value='-' onClick='javascript:
-			  this.form.action=\"v.editar_datos_4.php?token_especie=del&usuario=".$_GET['usuario']."&token=".$_GET['token']."&id_especie=".$contador_especies."\";
+			  this.form.action=\"v.editar_datos_4.php?token_especie=del&usuario=".$_GET['usuario']."&token=".$_GET['token']."&id_especie=".$row_especie[3]."\";
 			  this.form.submit();'>
 			</h3>
             </div>
@@ -182,7 +182,7 @@ $row2 = $stmt2->fetch();
 			 
 			 <div class='col-lg-4'>
 			 <div class='input-group'>
-			   <input type='text' name='concentracion_min_".$row_especie[3]."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_min[0]."'>
+			   <input type='text' name='concentracion_min_".$contador_especies."' class='form-control' aria-describedby='basic-addon11' value='".$und_concentracion_min[0]."'>
 			   <span class='input-group-addon' id='basic-addon11'>. Concentraci&oacute;n M&iacute;n.</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-4 -->
