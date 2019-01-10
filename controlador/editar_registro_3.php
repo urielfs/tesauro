@@ -88,7 +88,11 @@ $row2 = $stmt2->fetch();
 			$und_concentracion_min = explode("|", $row_especie["concentracion_min"]);  // Concentracion Min
 			// ----------------
 			
-		
+		    //................................Consulto foto disponible para la Especie...........
+			$sql_foto = $db->prepare("select valor2 from tesauro_cstm where label='especies' && valor=:valor");
+			$sql_foto->execute(array(":valor"=>$row_especie[0]));
+			$row_foto = $sql_foto->fetch();
+			//...................................................................................
 			
 			$cadena_especie.="
 			<div class='panel panel-info'>
@@ -114,6 +118,12 @@ $row2 = $stmt2->fetch();
 			   <span class='input-group-addon' id='basic-addon11'>. Especie</span>
 			 </div><!-- /input-group -->
 			 </div><!-- /.col-lg-6 -->
+			 <div class='col-xs-6 col-md-3'>
+              <a href='#' class='thumbnail'>
+              <img src='imagenes/".$row_foto[0]."' alt='...' width='171px' heigth='180px'>
+              </a>
+			  <input type='hidden' name='idc_especie_".$contador_especies."' value='".$row_especie[3]."'>
+             </div>
 			 ";
 		/*	 
 			  <div class='col-lg-6'>
