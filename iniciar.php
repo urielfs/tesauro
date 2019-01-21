@@ -17,17 +17,4 @@ require(PRIVATE_PATH . "/modelo/crud.php");
 require(PRIVATE_PATH . "/controlador2/controlador.php")
 
 
-/*
-require_once(PRIVATE_PATH . "/funciones/funciones_generales.php");
-
-require_once(PRIVATE_PATH . "/funciones/csrf_funciones_solicitud.php");
-require_once(PRIVATE_PATH . "/funciones/csrf_funciones_token.php");
-require_once(PRIVATE_PATH . "/funciones/solicitudes_suplantadas.php");
-require_once(PRIVATE_PATH . "/funciones/metodos_interceptar_fijar_sesiones.php");
-require_once(PRIVATE_PATH . "/funciones/sqli_funciones_escape.php");
-require_once(PRIVATE_PATH . "/funciones/funciones_limitar.php");
-require_once(PRIVATE_PATH . "/funciones/funciones_lista_negra.php");
-require_once(PRIVATE_PATH . "/funciones/validaciones.php");
-require_once(PRIVATE_PATH . "/funciones/xss_funciones_desinfectar.php");
-*/
 ?>

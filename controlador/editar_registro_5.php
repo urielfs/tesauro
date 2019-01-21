@@ -57,7 +57,11 @@ $row2 = $stmt2->fetch();
 			$envio_mensaje .= "<p>Fecha revisi&oacute;n: <b>".$_POST['fecha_revision']."</b></p>";
 			$envio_mensaje .= "<p>Revisi&oacute;n: <b>".$_POST['revision_titulacion']."</b></p>";
 			$envio_mensaje .= "<br>".$terminosTesauro;
+			
 			$dato = $b->envioCorreo("marlenny.diaz@usa.edu.co",$envio_mensaje);
+			$dato = $b->envioCorreo("ellie.lopez@usa.edu.co",$envio_mensaje);
+			$dato = $b->envioCorreo("urielmartinez2012@me.com",$envio_mensaje);
+			
 		}
 // ---------------------------------------------------------------------------------------------------		
 		?>

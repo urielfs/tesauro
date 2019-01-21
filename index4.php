@@ -117,16 +117,19 @@ function procesarPeticion(){
 	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
 	    <li><a href="#">Consulta Tesauro <span class="sr-only">(current)</span></a></li>
-        <li><a href="wordcloud">WordCloud</a></li>
-		<li><a href="vistas/v.historico_c.php">Buscar</a></li>
+        <li><a href="#">WordCloud</a></li>
+		<li class="active"><a href="#">Buscar</a></li>
 	  </ul>
 	  <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://redraus.com.co/sicpmt/index_iniciar.php">Iniciar Sesi&oacute;n</a></li>
+        <li><a href="http://redraus.com.co/sicpmt">Iniciar Sesi&oacute;n</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">M√°s <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="registro.php">Registrarse</a></li>
-            
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
           </ul>
         </li>
       </ul>
@@ -143,8 +146,8 @@ function procesarPeticion(){
 <!-- Jumbotron -->
 <div class="jumbotron">
   <h1>SICPMT!</h1>
-  <p>Bienvenido a SICPMT. En este sitio encontrar√° informaci√≥nde art√≠culos sobre estudios de contaminaci√≥n de varias zonas de Colombia con grandes fuentes fluviales y su impacto sobre la salud humana</p>
-  <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer m√°s</a></p>
+  <p>Bienvenido a SICPMT. En este sitio encontrar· informaciÛnde artÌculos sobre estudios de contaminaciÛn de varias zonas de Colombia con grandes fuentes fluviales y su impacto sobre la salud humana</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Leer m·s</a></p>
 </div>
 
 <div class="row">
@@ -153,7 +156,7 @@ function procesarPeticion(){
       <img src="..." alt="...">
       <div class="caption">
         <h3>Tesauro</h3>
-        <p>Por esta opci&oacute;n se presenta una opci√≥n de consulta del Tesauro almacenado en la aplicaci√≥n de SICPMT</p>
+        <p>Por esta opci&oacute;n se presenta una opciÛn de consulta del Tesauro almacenado en la aplicaciÛn de SICPMT</p>
         <p><a href="#" class="btn btn-primary" role="button">Button</a> </p>
       </div>
     </div>
@@ -173,7 +176,7 @@ function procesarPeticion(){
       <img src="..." alt="...">
       <div class="caption">
         <h3>Consulta SICPMT</h3>
-        <p>Puede consulta el hist√≥rico de solicitudes de titulaci√≥n, publicaciones, revisi√≥n de titulaci√≥n entre otros</p>
+        <p>Puede consulta el histÛrico de solicitudes de titulaciÛn, publicaciones, revisiÛn de titulaciÛn entre otros</p>
         <p><a href="vistas/v.historico_c.php" class="btn btn-primary" role="button">Ir a</a> </p>
       </div>
     </div>
